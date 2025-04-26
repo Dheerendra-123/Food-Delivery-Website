@@ -1,7 +1,7 @@
 .header{
     min-height: 34vw;
     margin: 30px auto;
-    background: url('C:\Users\HP\Web Development\FoodDel\Frontend\src\assets\header_img.png') no-repeat;
+    background: no-repeat;
     background-size: contain;
     position: relative;
 }
